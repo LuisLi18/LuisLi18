@@ -25,16 +25,16 @@
    </div>
     
   <h1 align="center">Social Networks</h1>
-    <a href = "mailto:diegoalonso139@gmail.com">
+    <a margin-left="10px" href = "mailto:lrlitang18@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/diego-de-la-flor-02048a237/">
+    <a href = "https://www.linkedin.com/in/luis-ram%C3%B3n-li-tang-659bb51b5/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/@diegodelaflor2926">
+    <a href = "https://www.youtube.com/channel/UCcHbWsmgYwvF1g6kgu5bk9g">
       <img width="35" src="youtube.svg">
     </a>
-    <a href = "https://www.instagram.com/diego_alonso20025/">
+    <a href = "https://www.instagram.com/luisli18/?hl=es-la">
       <img width="25" src="instagram.png">
     </a>
 </div>
